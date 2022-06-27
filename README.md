@@ -1,2 +1,2 @@
 # Statics
-Assignments (26_06_22)
+Assignments (19/25/26_06_22)
